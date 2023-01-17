@@ -1,0 +1,13 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ts-node": "ts-node",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "calculateExercises": "ts-node ./src/exerciseCalculator.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
